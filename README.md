@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshaydamarla/LeetCode/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/akshaydamarla/LeetCode/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akshaydamarla/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
