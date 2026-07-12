@@ -13,7 +13,6 @@ class Solution {
             }
         }
         int[] res = new int[arr.length];
-        //System.out.println(l);
         for(int i=0;i<arr.length;i++){
             res[i]=map.get(arr[i]);
         }
