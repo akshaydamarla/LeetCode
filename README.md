@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshaydamarla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/akshaydamarla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshaydamarla/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/akshaydamarla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshaydamarla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshaydamarla/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaydamarla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaydamarla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -77,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshaydamarla/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshaydamarla/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
