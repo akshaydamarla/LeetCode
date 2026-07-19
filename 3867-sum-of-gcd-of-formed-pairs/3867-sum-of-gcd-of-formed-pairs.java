@@ -12,15 +12,15 @@ class Solution {
         for(int i=1;i<n;i++){
             preMax[i]=Math.max(preMax[i-1],nums[i]);
         }
-        long[] prefixGcd = new long[n];
+        //long[] prefixGcd = new long[n];
         for(int i=0;i<n;i++){
-            prefixGcd[i]=gcd(nums[i],preMax[i]);
+            preMax[i]=gcd(nums[i],preMax[i]);
         }
-        Arrays.sort(prefixGcd);
+        Arrays.sort(preMax);
         int i = 0,j=n-1;
         long res = 0;
         while(i<j){
-            res+=gcd(prefixGcd[i++],prefixGcd[j--]);
+            res+=gcd(preMax[i++],preMax[j--]);
         }
         return res;
         
