@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akshaydamarla/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akshaydamarla/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akshaydamarla/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
