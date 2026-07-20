@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akshaydamarla/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshaydamarla/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
