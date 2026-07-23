@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -167,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
