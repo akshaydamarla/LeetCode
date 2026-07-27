@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/akshaydamarla/LeetCode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshaydamarla/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
