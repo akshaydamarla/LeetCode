@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshaydamarla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/akshaydamarla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/akshaydamarla/LeetCode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/akshaydamarla/LeetCode/tree/master/0796-rotate-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
