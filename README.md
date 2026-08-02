@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akshaydamarla/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaydamarla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akshaydamarla/LeetCode/tree/master/0231-power-of-two) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
