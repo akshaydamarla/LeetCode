@@ -7,10 +7,11 @@ class Solution {
             }else{
                 char c = s.charAt(i-1);
                 int n = s.charAt(i)-'0';
-                while(n>0){
+                /*while(n>0){
                     c++;
                     n--;
-                }
+                }*/
+                c+=n;
                 res+=c;
             }
         }
