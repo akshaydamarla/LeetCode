@@ -2,9 +2,7 @@ class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> result = new ArrayList<>();
         Arrays.sort(nums);
-        int min = nums[0];
-        int max = nums[nums.length-1];
-        int k = min;
+        int k = nums[0];
         for(int i=0;i<nums.length;){
             if(k==nums[i]){
                 i++;
