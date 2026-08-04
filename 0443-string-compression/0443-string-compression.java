@@ -4,6 +4,7 @@ class Solution {
         int cnt = 1;
         char c = chars[0];
         String res = "";
+        int k = 0;
         for(int i=1;i<chars.length;i++){
             if(c==chars[i]){
                 cnt++;
