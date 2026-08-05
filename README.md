@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/akshaydamarla/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0260-single-number-iii) |
 ## Game Theory
 |  |
 | ------- |
