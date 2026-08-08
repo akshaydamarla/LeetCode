@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshaydamarla/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshaydamarla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshaydamarla/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaydamarla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshaydamarla/LeetCode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
