@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshaydamarla/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/akshaydamarla/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/akshaydamarla/LeetCode/tree/master/0443-string-compression) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshaydamarla/LeetCode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/akshaydamarla/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 ## Queue
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akshaydamarla/LeetCode/tree/master/0164-maximum-gap) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
