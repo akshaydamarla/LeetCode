@@ -25,7 +25,6 @@ class Solution {
         for(int i=0;i<t;i++){
             ListNode newnode = new ListNode(result.get(i));
             if(head2==null){
-                newnode.next = head2;
                 head2=newnode;
                 temp=newnode;
             }else{
