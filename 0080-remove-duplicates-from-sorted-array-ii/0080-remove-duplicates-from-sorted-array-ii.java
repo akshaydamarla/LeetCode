@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+       /* HashMap<Integer,Integer> map = new HashMap<>();
 
 
         List<Integer> result = new ArrayList<>();
@@ -16,7 +16,16 @@ class Solution {
             nums[i]=result.get(i);
         }
         return result.size();
-        
+        */
+
+        int n = 2;
+        for(int i=2;i<nums.length;i++){
+            if(nums[i]!=nums[n-2]){
+                nums[n]=nums[i];
+                n++;
+            }
+        }
+        return n;
 
         
     }
