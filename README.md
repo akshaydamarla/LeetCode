@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Queue
 |  |
 | ------- |
