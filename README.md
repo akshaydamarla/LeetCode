@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/akshaydamarla/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1844-replace-all-digits-with-characters](https://github.com/akshaydamarla/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/akshaydamarla/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/akshaydamarla/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaydamarla/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshaydamarla/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshaydamarla/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
+| [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshaydamarla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
