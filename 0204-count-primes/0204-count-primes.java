@@ -1,11 +1,11 @@
 class Solution {
     public int countPrimes(int n) {
-        boolean[] prime = new boolean[n+1];
-        Arrays.fill(prime,true);
-        int cnt = 0;
         if(n<2){
             return 0;
         }
+        boolean[] prime = new boolean[n+1];
+        Arrays.fill(prime,true);
+        int cnt = 0;
         prime[0] = false;
         prime[1]=false;
         for(int i=2;i*i<=n;i++){
