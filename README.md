@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/akshaydamarla/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaydamarla/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaydamarla/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshaydamarla/LeetCode/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akshaydamarla/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/akshaydamarla/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/akshaydamarla/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/akshaydamarla/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/akshaydamarla/LeetCode/tree/master/0326-power-of-three) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshaydamarla/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaydamarla/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bucket Sort
 |  |
@@ -335,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
