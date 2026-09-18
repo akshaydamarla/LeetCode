@@ -1,8 +1,8 @@
 class Solution {
-    static int countTime(double n,int[] a){
+    static int countTime(int n,int[] a){
         int res = 0;
         for(int i=0;i<a.length;i++){
-            res+=Math.ceil(((double)a[i])/n);
+            res+=(a[i] + n -1)/n;
         }
         return res;
     }
