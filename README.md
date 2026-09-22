@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaydamarla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaydamarla/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/akshaydamarla/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/akshaydamarla/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/akshaydamarla/LeetCode/tree/master/0567-permutation-in-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/akshaydamarla/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/akshaydamarla/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akshaydamarla/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaydamarla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/akshaydamarla/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
