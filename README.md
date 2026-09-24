@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/akshaydamarla/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/akshaydamarla/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/akshaydamarla/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshaydamarla/LeetCode/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/akshaydamarla/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshaydamarla/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akshaydamarla/LeetCode/tree/master/3731-find-missing-elements) |
