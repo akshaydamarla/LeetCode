@@ -1,6 +1,5 @@
 class Solution {
     public int compress(char[] chars) {
-        //HashMap<Character,Integer> map = new HashMap<>();
         int cnt = 1;
         char c = chars[0];
         String res = "";
