@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaydamarla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshaydamarla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/akshaydamarla/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshaydamarla/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/akshaydamarla/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0260-single-number-iii) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshaydamarla/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akshaydamarla/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
