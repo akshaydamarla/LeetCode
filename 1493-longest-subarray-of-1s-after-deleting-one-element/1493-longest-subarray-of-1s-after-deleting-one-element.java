@@ -22,7 +22,6 @@ class Solution {
             maxCnt=Math.max(maxCnt,right-left);
             right++;
         }
-        //maxCnt=Math.max(maxCnt,right-left);
         return maxCnt;
     }
 }
