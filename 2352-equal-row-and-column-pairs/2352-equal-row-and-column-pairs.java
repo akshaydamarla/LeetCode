@@ -3,22 +3,24 @@ class Solution {
         HashMap<String,Integer> map = new HashMap<>();
         int n = grid.length;
         for(int i=0;i<n;i++){
-            String res = "";
+            StringBuilder res = new StringBuilder("");
             for(int j=0;j<n;j++){
-                res+=grid[i][j];
-                res+="+";
+                res.append(grid[i][j]);
+                res.append("+");
             }
-            map.put(res,map.getOrDefault(res,0)+1);
+            String temp = res.toString();
+            map.put(temp,map.getOrDefault(temp,0)+1);
         }
         int cnt = 0;
 
         for(int i=0;i<n;i++){
-            String res = "";
+            StringBuilder res = new StringBuilder("");
             for(int j=0;j<n;j++){
-                res+=grid[j][i];
-                res+="+";
+                res.append(grid[j][i]);
+                res.append("+");
             }
-            cnt+=map.getOrDefault(res,0);
+            String temp = res.toString();
+            cnt+=map.getOrDefault(temp,0);
         }
 
         return cnt;
