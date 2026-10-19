@@ -4,10 +4,10 @@ class Solution {
         StringBuilder res = new StringBuilder("");
         int cnt= 0;
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='*'){
-                st.pop();
-            }else{
+            if(s.charAt(i)!='*'){
                 st.push(s.charAt(i));
+            }else{
+                st.pop();
             }
         }
         while(!st.isEmpty()){
