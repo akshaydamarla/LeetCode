@@ -1,15 +1,27 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] a = s.trim().split("\\s+");
-        StringBuilder res = new StringBuilder("");
-        for(int i=a.length-1;i>=0;i--){
-            res.append(a[i]);
-            if(i!=0){
-                res.append(" ");
+        Stack<String> st = new Stack<>();
+        int first = 0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)==' '){
+                if(first<i){
+                    st.push(s.substring(first,i));
+                }
+                first=i+1;
             }
-
         }
-        return new String(res);
+        if(first<s.length()){
+                st.push(s.substring(first));
+        }
+        
+        
+        StringBuilder sb = new StringBuilder("");
+        while(!st.isEmpty()){
+            System.out.println(st.peek());
+            sb.append(st.pop());
+            sb.append(" ");
+        }
+        return sb.toString().trim();
         
     }
 }
