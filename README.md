@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/akshaydamarla/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akshaydamarla/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshaydamarla/LeetCode/tree/master/0326-power-of-three) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshaydamarla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/akshaydamarla/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
