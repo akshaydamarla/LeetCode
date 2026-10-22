@@ -17,12 +17,9 @@ class Solution {
         ListNode dum = new ListNode(-1);
         dum.next=head;
         ListNode prev=dum;
-        ListNode temp = dum.next;
-        ListNode first = prev.next;
-        ListNode second = prev.next.next;
         while(prev.next!=null&&prev.next.next!=null){
-            first=prev.next;
-            second=prev.next.next;
+            ListNode first=prev.next;
+            ListNode second=prev.next.next;
             first.next=first.next.next;
             prev.next=second;
             second.next=first;
