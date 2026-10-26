@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akshaydamarla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akshaydamarla/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshaydamarla/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/akshaydamarla/LeetCode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/akshaydamarla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/akshaydamarla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/akshaydamarla/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/akshaydamarla/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
