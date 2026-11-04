@@ -23,7 +23,7 @@ class Solution {
             cnt=Math.max(cnt,right-left+1);
             right++;
         }
-        cnt=Math.max(cnt,o+z);
+        //cnt=Math.max(cnt,o+z);
         return cnt;
         
     }
