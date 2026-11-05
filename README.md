@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akshaydamarla/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1492-the-kth-factor-of-n](https://github.com/akshaydamarla/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaydamarla/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/akshaydamarla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/akshaydamarla/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshaydamarla/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshaydamarla/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshaydamarla/LeetCode/tree/master/0078-subsets) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/akshaydamarla/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
