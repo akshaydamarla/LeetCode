@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akshaydamarla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/akshaydamarla/LeetCode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/akshaydamarla/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/akshaydamarla/LeetCode/tree/master/0396-rotate-function) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshaydamarla/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/akshaydamarla/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/akshaydamarla/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akshaydamarla/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/akshaydamarla/LeetCode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/akshaydamarla/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/akshaydamarla/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/akshaydamarla/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/akshaydamarla/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akshaydamarla/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaydamarla/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
