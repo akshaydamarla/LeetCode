@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/akshaydamarla/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshaydamarla/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akshaydamarla/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/akshaydamarla/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/akshaydamarla/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshaydamarla/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshaydamarla/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akshaydamarla/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaydamarla/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshaydamarla/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/akshaydamarla/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/akshaydamarla/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshaydamarla/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/akshaydamarla/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/akshaydamarla/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshaydamarla/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
