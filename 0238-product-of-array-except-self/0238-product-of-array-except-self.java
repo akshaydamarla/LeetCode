@@ -10,12 +10,12 @@ class Solution {
         for(int i=nums.length-2;i>=0;i--){
             suf[i]=suf[i+1]*nums[i];
         }
-        int[] res = new int[nums.length];
-        res[0]=suf[1];
+        //int[] res = new int[nums.length];
+        nums[0]=suf[1];
         for(int i=1;i<nums.length-1;i++){
-            res[i]=pre[i-1]*suf[i+1];
+            nums[i]=pre[i-1]*suf[i+1];
         }
-        res[nums.length-1]=pre[nums.length-2];
-        return res;
+        nums[nums.length-1]=pre[nums.length-2];
+        return nums;
     }
 }
