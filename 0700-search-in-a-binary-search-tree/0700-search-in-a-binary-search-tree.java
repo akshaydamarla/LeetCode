@@ -20,13 +20,13 @@ class Solution {
         }
         TreeNode res = null;
         if(root.val==val){
-            res=root;
+            return root;
         }else if(root.val<val){
-            res = searchBST(root.right,val);
+            return searchBST(root.right,val);
         }else if(root.val>val){
-            res = searchBST(root.left,val);
+            return searchBST(root.left,val);
         }
 
-        return res;
+        return root;
     }
 }
