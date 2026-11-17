@@ -18,7 +18,6 @@ class Solution {
         if(root==null){
             return null;
         }
-        TreeNode res = null;
         if(root.val==val){
             return root;
         }else if(root.val<val){
