@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshaydamarla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/akshaydamarla/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/akshaydamarla/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/akshaydamarla/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshaydamarla/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
