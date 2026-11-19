@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/akshaydamarla/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/akshaydamarla/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/akshaydamarla/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akshaydamarla/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Array
