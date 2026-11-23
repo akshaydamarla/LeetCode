@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshaydamarla/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/akshaydamarla/LeetCode/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/akshaydamarla/LeetCode/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/akshaydamarla/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/akshaydamarla/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akshaydamarla/LeetCode/tree/master/0877-stone-game) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshaydamarla/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaydamarla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshaydamarla/LeetCode/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/akshaydamarla/LeetCode/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/akshaydamarla/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/akshaydamarla/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshaydamarla/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/akshaydamarla/LeetCode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/akshaydamarla/LeetCode/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshaydamarla/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
@@ -488,9 +491,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akshaydamarla/LeetCode/tree/master/0705-design-hashset) |
 | [1352-product-of-the-last-k-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/akshaydamarla/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akshaydamarla/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
