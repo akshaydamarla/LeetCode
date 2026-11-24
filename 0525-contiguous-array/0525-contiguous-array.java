@@ -1,8 +1,6 @@
 class Solution {
     public int findMaxLength(int[] nums) {
-        int zero = 0, one = 0;
         int cnt = 0;
-        int len = 0;
         int maxLen = 0;
         HashMap<Integer,Integer> map = new HashMap<>();
         map.put(0,-1);
