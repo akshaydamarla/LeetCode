@@ -12,8 +12,7 @@ class Solution {
             }
             if(!map.containsKey(cnt)){
                 map.put(cnt,i);
-            }
-            if(map.containsKey(cnt)){
+            }else{
                 maxLen = Math.max(maxLen,i-map.get(cnt));
             }
         }
